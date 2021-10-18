@@ -1,0 +1,6 @@
+John 200 2
+Mary 390 3
+Dean 500 4
+Tim 2000 50
+Dylan 400 5
+Jake 89 1
